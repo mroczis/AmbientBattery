@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Ambient Battery</string>
+    <string name="charging_not">Vybíjení</string>
+    <string name="charging_ac">Napájení ze zdroje (AC)</string>
+    <string name="charging_wireless">Bezdrátové nabíjení</string>
+    <string name="charging_usb">USB nabíjení</string>
+    <string name="capacity_discharge_postfix">zbývá</string>
+    <string name="capacity_charge_postfix">do nabití</string>
+    <string name="capacity_week">Více než týden</string>
+    <string name="capacity_calculating">Shromažďuji data…</string>
+    <string name="dash">-</string>
+    <string name="capacity_unsupported">Zbývající čas nemůže být vypočítán</string>
+    <string name="state_on">Zapnuto</string>
+    <string name="comment_title">Přidejme i baterii na ambient displej</string>
+    <string name="comment_subtitle">Ambient Battery je malý nástroj, který se postará, aby byly informace o baterii dostupné na ambient displeji vašeho Nexuse 5X, 6 nebo 6P.\n\nA pokud se vám líbí, nezapomeňte ji ohodnoit na Google Play. Stačí klepnout na ikonku srdíčka výše.</string>
+    <string name="state_off">Vypnuto</string>
+    <string name="menu_rate">Ohodnotit na Google Play</string>
+    <string name="charging_full">Plně nabito</string>
+    <string name="charging_infinite">Přísun energie není dostatečný</string>
+    <string name="discharging_infinite">Více než rok :)</string>
+    <string name="settings_lockscreen">Zobrazovat na uzamčené obrazovce</string>
+    <string name="settings_lockscreen_desc">Notifikace se bude také zobrazovat, pokud bude zařízení uzamčeno.</string>
+    <string name="settings_calculate">Vypočítat zbývající čas</string>
+    <string name="settings_calculate_desc">Aplikace se pokusí odhadnout zbývající čas do vybití nebo nabití baterie.</string>
+    <string name="settings_strip">Zobrazovat pruh</string>
+    <string name="settings_strip_desc">Tenký pruh pod číslem indikující stav baterie.</string>
+
+    <plurals name="capacity_day">
+        <item quantity="one">%d den</item>
+        <item quantity="few">%d dny</item>
+        <item quantity="other">%d dní</item>
+    </plurals>
+
+    <plurals name="capacity_hour">
+        <item quantity="one">%d hodina</item>
+        <item quantity="few">%d hodiny</item>
+        <item quantity="other">%d hodin</item>
+    </plurals>
+
+    <plurals name="capacity_minute">
+        <item quantity="one">%d minuta</item>
+        <item quantity="few">%d minuty</item>
+        <item quantity="other">%d minut</item>
+    </plurals>
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Ambient Battery</string>
+    <string name="charging_not">Discharging</string>
+    <string name="charging_ac">AC charging</string>
+    <string name="charging_wireless">Wireless charging</string>
+    <string name="charging_usb">USB charging</string>
+    <string name="capacity_discharge_postfix">remaining</string>
+    <string name="capacity_charge_postfix">until full</string>
+    <string name="capacity_week">More than a week</string>
+    <string name="capacity_calculating">Collecting data…</string>
+    <string name="dash">-</string>
+    <string name="capacity_unsupported">Remaining time cannot be calculated</string>
+    <string name="state_on">On</string>
+    <string name="comment_title">Let\'s bring battery to ambient</string>
+    <string name="comment_subtitle">Ambient Battery is a small powerful tool that brings battery stats to ambient display on your Nexus 5X, 6 or 6P.\n\nFeel free to share the love on Google Play if you like this app.</string>
+    <string name="state_off">Off</string>
+    <string name="menu_rate">Rate on Google Play</string>
+    <string name="charging_full">Fully charged</string>
+    <string name="charging_infinite">Will be never charged</string>
+    <string name="discharging_infinite">More than a year :)</string>
+    <string name="settings_lockscreen">Show on lockscreen</string>
+    <string name="settings_lockscreen_desc">Notification will also pop-up when device is locked.</string>
+    <string name="settings_calculate">Guess remaining battery time</string>
+    <string name="settings_calculate_desc">Will try to calculate reamining battery time.</string>
+    <string name="settings_strip">Show battery strip</string>
+    <string name="settings_strip_desc">A tiny strip indicating battery level under numeric value</string>
+
+    <plurals name="capacity_day">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+
+    <plurals name="capacity_hour">
+        <item quantity="one">%d hour</item>
+        <item quantity="other">%d hours</item>
+    </plurals>
+
+    <plurals name="capacity_minute">
+        <item quantity="one">%d min</item>
+        <item quantity="other">%d mins</item>
+    </plurals>
+</resources>

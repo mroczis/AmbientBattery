@@ -1,0 +1,15 @@
+# AndroidStudio files
+*.iml
+*.ipr
+*.iws
+**/.idea/*
+!**/.idea/copyright
+!**/.idea/checkstyle-idea.xml
+!**/.idea/codeStyleSettings.xml
+**/.gradle/*
+**/captures/*
+**/build/*
+local.properties
+
+# mac specific files
+.DS_Store

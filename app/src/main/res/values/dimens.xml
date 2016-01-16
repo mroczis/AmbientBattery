@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_elevation">8dp</dimen>
+    <dimen name="title_margin">16dp</dimen>
+    <dimen name="title_size">20sp</dimen>
+    <dimen name="switch_margin">16dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="material_54">54dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="space_16">16dp</dimen>
+    <dimen name="material_72">72dp</dimen>
+    <dimen name="settings_title">16sp</dimen>
+    <dimen name="subtitle_margin_top">2dp</dimen>
+
+    <dimen name="notification_margin">8dp</dimen>
+    <dimen name="comment_height">150dp</dimen>
+</resources>
